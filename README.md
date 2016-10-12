@@ -9,8 +9,11 @@ Expected behaviour: Tell us what should happen instead
 Steps to reproduce the problem:
 
 1.
+
 2.
+
 3.
+
 
 Include proofs for this behaviour
 
